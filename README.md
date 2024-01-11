@@ -1,3 +1,3 @@
-# rss_reader
+# RSS Reader
 
-A new Flutter project.
+A lightweight desktop RSS feed reader.
